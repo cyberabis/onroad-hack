@@ -40,6 +40,11 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="io.logbase.onroad.MainActivity" />
         </activity>
+        <activity
+            android:name=".WebActivity"
+            android:label="@string/title_activity_web"
+            android:screenOrientation="portrait" >
+        </activity>
 
         <service
             android:name=".TripTrackerIntentService"
@@ -58,10 +63,6 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity
-            android:name=".WebActivity"
-            android:label="@string/title_activity_web" >
-        </activity>
     </application>
 
 </manifest>
