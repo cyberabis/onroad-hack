@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abishek/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.2.1/3b9a81d08f908b0ee381b699d823c83a32391c0f/aws-android-sdk-s3-2.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b9a81d08f908b0ee381b699d823c83a32391c0f">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.2.1-48ea06233a2ad2db30d9a869197190a33b361fdf.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/classes-380fcfd472fba718d6f7438069351c8d838bc3a6.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.1/36d1a20986f3b98033fc7bcf49724ad199a5cde7/aws-android-sdk-core-2.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="36d1a20986f3b98033fc7bcf49724ad199a5cde7">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.2.1-92a035e06e326b2c89d452398e392b15ffa2c30a.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/AndroidStudioProjects/onroad-hack/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/abishek/AndroidStudioProjects/onroad-hack/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-646cc7a96a7c3852950f2f2b6998fa0757287851.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.2.4/b797b9bfb5edb54473a55ece366ead72102803bc/firebase-client-jvm-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b797b9bfb5edb54473a55ece366ead72102803bc">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.2.4-5017c67d94a3de5760924d2b5164a0545fc0ce7e.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/AndroidStudioProjects/onroad-hack/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
+        <dex dex="/Users/abishek/AndroidStudioProjects/onroad-hack/app/build/intermediates/pre-dexed/debug/classes-3be9b2c318895446f902b8950e941f7b9fe1673f.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.2.4/d952dbeacf5269df1d2d2321cdbb165dc37c82b3/firebase-client-android-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d952dbeacf5269df1d2d2321cdbb165dc37c82b3">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.2.4-4219e15cade02f4ec64e82c15c3be505f609b051.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-11c4ca856ae3d21ee45dbeca28cd0007839e5127.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-af288e8aaa52f53f341ecda983cc39b25210ecfd.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/gson-2.2.4-158a68f9aa5823cc9dcf23e86e4fb8029fe3d05c.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/AndroidStudioProjects/onroad-hack/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/abishek/AndroidStudioProjects/onroad-hack/app/build/intermediates/pre-dexed/debug/classes-ef070c262c288b91be4ef8ac0ea20cd3dbc030c9.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-d4907754d0b0f6810b7cead52785c04fbf7351c6.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/classes-aba9f38eb22c0646a3de484503db1ddcc6349219.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11-a8836ea2af09489d8a0292f5cc82af44c4053c8f.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-ec2266758231deb78151f9b97679df0ff72ec1e1.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/classes-79271809a779b4a56feee828b43de2dca8c912f6.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/AndroidStudioProjects/onroad-hack/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/abishek/AndroidStudioProjects/onroad-hack/app/build/intermediates/pre-dexed/debug/classes-6cb8c1fb64efeff3107b13bc1e45c176f2660315.jar" />
+    </item>
+    <item
+        jar="/Users/abishek/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/abishek/AndroidStudioProjects/OnRoad/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-7e80585d7596e0746c69f5b6fbe22414fed0ca5b.jar" />
+    </item>
+
+</items>
