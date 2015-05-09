@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">tripmetrics</string>
+    <string name="app_name">Jerk</string>
     <string name="action_settings">Settings</string>
     <string name="action_user">User</string>
     <string name="pref_file_key">onroad</string>
@@ -12,7 +12,7 @@
 
 
     <string name="flash_msg">RIDE SAFE, \nRIDE EFFICIENT.</string>
-    <string name="start_button">Start</string>
+    <string name="start_button">Go to App</string>
 
     <string name="title_activity_login">Sign In</string>
     <string name="username_hint">Enter your username</string>
@@ -39,6 +39,6 @@
     <string name="upload_alert">Either internet not connected or trip is running.</string>
     <string name="auto_alert">Accelerometer, Gyroscope and GPS needs to be enabled.</string>
 
-    <string name="title_activity_web">tripmetrics</string>
+    <string name="title_activity_web">Jerk</string>
 
 </resources>

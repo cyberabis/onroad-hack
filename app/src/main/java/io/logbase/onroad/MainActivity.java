@@ -55,4 +55,16 @@ public class MainActivity extends ActionBarActivity {
         intent = new Intent(this, WebActivity.class);
         startActivity(intent);
     }
+
+    public void goToControls(View view) {
+        SharedPreferences sharedPref = this.getSharedPreferences(getString(R.string.pref_file_key),
+                Context.MODE_PRIVATE);
+        String username = sharedPref.getString(getString(R.string.username_key), null);
+        Intent intent = null;
+        if (username == null)
+            intent = new Intent(this, LoginActivity.class);
+        else
+            intent = new Intent(this, ControlActivity.class); //TODO validate user
+        startActivity(intent);
+    }
 }

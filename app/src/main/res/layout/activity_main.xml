@@ -14,20 +14,32 @@
         android:id="@+id/textView"
         android:textColor="#FFFFFF"
         android:textStyle="bold|italic"
-        android:layout_marginTop="141dp"
+        android:layout_marginTop="126dp"
         android:textSize="40dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
 
     <Button
-        android:layout_width="100dp"
+        android:layout_width="120dp"
         android:layout_height="wrap_content"
         android:text="@string/start_button"
         android:id="@+id/button"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="39dp"
+        android:layout_marginTop="47dp"
         android:background="#FFFFFF"
-        android:onClick="startApp" />
+        android:onClick="startApp"
+        android:layout_below="@+id/textView"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView" />
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:id="@+id/button2"
+        android:layout_alignTop="@+id/button"
+        android:layout_alignRight="@+id/textView"
+        android:layout_alignEnd="@+id/textView"
+        android:background="#FFFFFF"
+        android:onClick="goToControls"/>
 
 </RelativeLayout>
